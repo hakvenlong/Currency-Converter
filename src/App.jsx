@@ -38,7 +38,7 @@ function App() {
   const fromFlag = `https://flagcdn.com/48x36/${Country_List[fromCurrency]?.toLowerCase()}.png`;
   const toFlag = `https://flagcdn.com/48x36/${Country_List[toCurrency]?.toLowerCase()}.png`;
 
-  const API_KEY = '3ed5629c6b1fb1fc6c90c23b'; 
+  const API_KEY = 'Your API key'; 
 
   const getExchangeRate = async (initialLoad = false) => {
     const amountVal = amount || 1;
