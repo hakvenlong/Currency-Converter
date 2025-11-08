@@ -2,7 +2,7 @@
 
 A modern, responsive **Currency Converter** built with **React** and powered by the [ExchangeRate-API](https://www.exchangerate-api.com/). Features real-time exchange rates, flag icons, and a clean UI.
 
-Live Demo: [https://your-deployed-url.com](https://your-deployed-url.com) *(Replace with your actual link)*
+Live Demo: [https://your-deployed-url.com]() *(Replace with your actual link)*
 
 ---
 
