@@ -33,5 +33,5 @@ Live Demo: [https://your-deployed-url.com](https://your-deployed-url.com) *(Repl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-currency-converter.git
+git clone https://github.com/hakvenlong/Currency-Converter.git
 cd react-currency-converter
